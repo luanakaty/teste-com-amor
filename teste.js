@@ -1,3 +1,3 @@
-function teste() {
-    console.log("Pegou")
+function saudacao(nome) {
+    console.log(`Meu nome é ${nome}`)
 }
